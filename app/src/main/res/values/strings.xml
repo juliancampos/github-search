@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">GitHubSearch</string>
+    <string name="app_name">GitHub-Search</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="saved_user_name">saved_user_name</string>
+    <string name="searching_repositories">Buscando repositórios ...</string>
+    <string name="searching_repositories_error">Erro ao buscar repositórios!</string>
+    <string name="repositories_not_found">Não foram encontrados repositórios para o usuario informado!</string>
 </resources>
